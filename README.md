@@ -1,6 +1,6 @@
 # Youtube_Transcript_Summarizer
 
- ![image]([[https://user-images.githubusercontent.com/65394574/170121667-49478981-6cbf-4d10-814f-7ca05db64c3d.png])
+ ![image](https://user-images.githubusercontent.com/65394574/170121667-49478981-6cbf-4d10-814f-7ca05db64c3d.png)
 
 ## Objective
 
