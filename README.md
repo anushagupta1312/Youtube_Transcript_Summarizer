@@ -1,6 +1,6 @@
 # Youtube_Transcript_Summarizer
 
- ![image]([https://user-images.githubusercontent.com/65394574/170121667-49478981-6cbf-4d10-814f-7ca05db64c3d.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fotter.ai%2Fblog%2Fhow-to-generate-a-transcript-for-a-youtube-video&psig=AOvVaw0BX9yAQAGykSaf8N9OVZ0x&ust=1679688935844000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi-i4Tv8v0CFQAAAAAdAAAAABAE))
+ ![image]([[https://user-images.githubusercontent.com/65394574/170121667-49478981-6cbf-4d10-814f-7ca05db64c3d.png])
 
 ## Objective
 
